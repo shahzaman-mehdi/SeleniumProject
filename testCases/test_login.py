@@ -1,13 +1,10 @@
-import pytest
-from selenium import webdriver
 from pageObjects.LoginPage import LoginPage
 from Utilities.readProperties import ReadConfig
 from Utilities.customLogger import LogGen
 
 
 
-class Test_001_Login():
-
+class Test_001_Login:
     baseURL = ReadConfig.getApplicationURL()
     username = ReadConfig.getUserEmail()
     password = ReadConfig.getPassword()
@@ -34,9 +31,3 @@ class Test_001_Login():
             self.logger.error("********** Login Test Failed **********")
             self.driver.close()
             assert False
-
-
-
-
-
-
