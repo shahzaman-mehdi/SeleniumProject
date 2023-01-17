@@ -3,6 +3,7 @@ import time
 import string
 import pytest
 from selenium import webdriver
+from selenium.webdriver.common.by import By
 from pageObjects.manageItem import ItemManagement
 from pageObjects.LoginPage import LoginPage
 from Utilities.readProperties import ReadConfig
@@ -39,56 +40,52 @@ class Test_003_Add_NonSerialized_Item:
 
         self.ai.clickAddItem()
         time.sleep(2)
-        self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-        time.sleep(10)
 
+        # self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+        # time.sleep(5)
 
-        # self.code = 'AT' + randomNumber()
-        # print(self.code)
-        # self.ai.enterItemCode(self.code)
-        # time.sleep(2)
-        #
-        # self.name = 'AT Item ' + randomNumber()
-        # print(self.name)
-        # self.ai.enterItemName(self.name)
-        # time.sleep(2)
-        #
-        # self.ai.enterItemDescription('This it the item created by automation testing. The test case id is '
-        #                              'Test_003_Add_NonSerialized_Item')
-        # # time.sleep(2)
-        #
-        # self.upc = 'UPC' + randomNumber()
-        # print(self.upc)
-        # self.ai.enterUPCNumber(self.upc)
-        # time.sleep(2)
-
-        self.ai.enterStandardCost(500)
+        self.ai.selectItemCategory()
         time.sleep(2)
+
+        self.code = 'AT' + randomNumber()
+        print(self.code)
+        self.ai.enterItemCode(self.code)
+        time.sleep(2)
+
+        self.name = 'AT Item ' + randomNumber()
+        self.ai.enterItemName(self.name)
+        time.sleep(2)
+
+        self.ai.enterItemDescription('This it the item created by automation testing. The test case id is '
+                                     'Test_003_Add_NonSerialized_Item')
+        time.sleep(2)
+
+        self.upc = 'UPC' + randomNumber()
+        self.ai.enterUPCNumber(self.upc)
+        time.sleep(2)
+
+        # self.ai.enterStandardCost(500.00)
+        # time.sleep(2)
 
         # self.ai.enterSellingPrice(1000)
         # time.sleep(2)
         #
-        # self.ai.clickSaveAndContinue()
-        # time.sleep(5)
-        #
-        # self.msg = self.driver.find_elements_by_tag_name("body").text
-        #
-        # if self.msg == 'Record Save Successfully':
-        #     assert True
-        # else:
-        #     assert False
+        self.ai.clickSaveAndContinue()
+        time.sleep(15)
 
-        # // *[ @ id = "htmlBody"] / div[3] / div / div / text()
-        # // div[ @
-        #
-        # class ='k-notification-wrap']
-        # // div[@ class ='k-notification-wrap']
-        # Record Save Successfully
+        self.msg = self.driver.find_element(By.TAG_NAME, 'body').text
 
-# def randomNumber():
-#     randNum = ''.join(random.choice(string.digits) for i in range(5))
-#     return randNum
+        if 'Record Save Successfully' in self.msg:
+            assert True==True
+            self.logger.info("**********Item added successfully **********")
+        else:
+            self.logger.info("**********Add item test failed **********")
+            assert False
 
+
+def randomNumber():
+    randNum = ''.join(random.choice(string.digits) for i in range(5))
+    return randNum
 
 # def randomChar():
 #     randChar = ''.join(random.choice(string.ascii_lowercase) for i in range(10))

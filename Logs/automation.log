@@ -253,3 +253,34 @@
 2023-01-16 18:03:29,745 :INFO :********** Test_003_Add_NonSerialized_Item **********
 2023-01-16 18:03:29,745 :INFO :********** Verifying Add Non-Serialized Item **********
 2023-01-16 18:03:39,017 :INFO :********** Login Successful **********
+2023-01-16 18:14:59,787 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-16 18:14:59,787 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-16 18:15:09,201 :INFO :********** Login Successful **********
+2023-01-17 14:21:06,429 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-17 14:21:06,430 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-17 14:21:19,163 :INFO :********** Login Successful **********
+2023-01-17 14:21:59,993 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-17 14:21:59,993 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-17 14:22:11,552 :INFO :********** Login Successful **********
+2023-01-17 14:23:09,489 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-17 14:23:09,490 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-17 14:23:21,027 :INFO :********** Login Successful **********
+2023-01-17 14:24:18,148 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-17 14:24:18,148 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-17 14:24:27,890 :INFO :********** Login Successful **********
+2023-01-17 14:46:15,313 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-17 14:46:15,314 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-17 14:46:26,429 :INFO :********** Login Successful **********
+2023-01-17 14:48:11,444 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-17 14:48:11,444 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-17 14:48:20,906 :INFO :********** Login Successful **********
+2023-01-17 14:59:29,711 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-17 14:59:29,711 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-17 14:59:39,346 :INFO :********** Login Successful **********
+2023-01-17 15:01:59,357 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-17 15:01:59,357 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-17 15:02:10,419 :INFO :********** Login Successful **********
+2023-01-17 15:25:26,188 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-17 15:25:26,188 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-17 15:25:43,925 :INFO :********** Login Successful **********
+2023-01-17 15:26:26,636 :INFO :**********Item added successfully **********
