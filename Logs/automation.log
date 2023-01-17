@@ -284,3 +284,45 @@
 2023-01-17 15:25:26,188 :INFO :********** Verifying Add Non-Serialized Item **********
 2023-01-17 15:25:43,925 :INFO :********** Login Successful **********
 2023-01-17 15:26:26,636 :INFO :**********Item added successfully **********
+2023-01-17 15:43:50,373 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-17 15:43:50,374 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-17 15:44:00,490 :INFO :********** Login Successful **********
+2023-01-17 15:44:27,763 :INFO :********** Saving **********
+2023-01-17 15:44:43,046 :INFO :**********Item added successfully **********
+2023-01-17 15:45:54,287 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-17 15:45:54,288 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-17 15:46:03,233 :INFO :********** Login Successful **********
+2023-01-17 15:46:26,012 :INFO :********** Saving **********
+2023-01-17 15:46:36,456 :ERROR :**********Add item test failed **********
+2023-01-17 17:38:50,499 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-17 17:38:50,499 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-17 17:39:06,346 :INFO :********** Login Successful **********
+2023-01-17 17:39:33,387 :INFO :********** Saving **********
+2023-01-17 17:39:43,755 :INFO :**********Item added successfully **********
+2023-01-17 17:42:21,385 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-17 17:42:21,385 :INFO :********** Logging into ERP **********
+2023-01-17 17:42:31,354 :INFO :********** Login Successful **********
+2023-01-17 17:42:31,354 :INFO :********** Opening Items List Screen **********
+2023-01-17 17:42:34,684 :INFO :********** Items List Screen Appeared **********
+2023-01-17 17:42:36,693 :INFO :********** Searching Item **********
+2023-01-17 17:42:39,874 :INFO :********** Opening searched item in edit view **********
+2023-01-17 17:46:27,540 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-17 17:46:27,540 :INFO :********** Logging into ERP **********
+2023-01-17 17:46:39,518 :INFO :********** Login Successful **********
+2023-01-17 17:46:39,519 :INFO :********** Opening Items List Screen **********
+2023-01-17 17:46:42,680 :INFO :********** Items List Screen Appeared **********
+2023-01-17 17:46:44,686 :INFO :********** Searching Item **********
+2023-01-17 17:46:49,855 :INFO :********** Opening searched item in edit view **********
+2023-01-17 17:46:53,730 :INFO :***** Updating the item description and UPC number field values *****
+2023-01-17 17:46:58,575 :INFO :***** Saving the updated item *****
+2023-01-17 17:47:03,893 :INFO :**********Item updated successfully **********
+2023-01-17 17:49:27,650 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-17 17:49:27,650 :INFO :********** Logging into ERP **********
+2023-01-17 17:49:37,407 :INFO :********** Login Successful **********
+2023-01-17 17:49:37,407 :INFO :********** Opening Items List Screen **********
+2023-01-17 17:49:40,751 :INFO :********** Items List Screen Appeared **********
+2023-01-17 17:49:42,764 :INFO :********** Searching Item **********
+2023-01-17 17:49:47,982 :INFO :********** Opening searched item in edit view **********
+2023-01-17 17:49:51,769 :INFO :***** Updating the item description and UPC number field values *****
+2023-01-17 17:49:56,520 :INFO :***** Saving the updated item *****
+2023-01-17 17:50:02,296 :ERROR :**********Edit Non Serialized Item Test Failed **********

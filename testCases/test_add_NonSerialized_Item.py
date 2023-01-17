@@ -1,8 +1,6 @@
 import random
 import time
 import string
-import pytest
-from selenium import webdriver
 from selenium.webdriver.common.by import By
 from pageObjects.manageItem import ItemManagement
 from pageObjects.LoginPage import LoginPage
@@ -48,7 +46,6 @@ class Test_003_Add_NonSerialized_Item:
         time.sleep(2)
 
         self.code = 'AT' + randomNumber()
-        print(self.code)
         self.ai.enterItemCode(self.code)
         time.sleep(2)
 
@@ -71,16 +68,18 @@ class Test_003_Add_NonSerialized_Item:
         # time.sleep(2)
         #
         self.ai.clickSaveAndContinue()
-        time.sleep(15)
+        self.logger.info("********** Saving **********")
+        time.sleep(10)
 
         self.msg = self.driver.find_element(By.TAG_NAME, 'body').text
 
         if 'Record Save Successfully' in self.msg:
-            assert True==True
+            assert True == True
             self.logger.info("**********Item added successfully **********")
         else:
-            self.logger.info("**********Add item test failed **********")
-            assert False
+            self.driver.save_screenshot(".\\Screenshots\\" + "test-addNonSerializedItem_scr.png")
+            self.logger.error("**********Add Non Serialized Item Test Failed **********")
+            assert True == False
 
 
 def randomNumber():

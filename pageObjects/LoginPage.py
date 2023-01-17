@@ -24,4 +24,6 @@ class LoginPage:
 
     def clickRemindLater(self):
         self.driver.find_element(By.LINK_TEXT, self.button_remindLater_linkText).click()
+
+
 #

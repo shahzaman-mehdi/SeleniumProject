@@ -5,6 +5,7 @@ from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.edge.service import Service
 from selenium.webdriver.firefox.options import Options
 
+
 # from webdriver_manager.chrome import ChromeDriverManager
 
 @pytest.fixture
@@ -35,6 +36,7 @@ def pytest_addoption(parser):  # Hook: This will get value from CLI
 @pytest.fixture
 def browser(request):  # This will return the Browser value from cli to setup method
     return request.config.getoption("--browser")
+
 
 ################### Pytest HTML Report ################################
 
