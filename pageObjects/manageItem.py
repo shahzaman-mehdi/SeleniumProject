@@ -16,6 +16,7 @@ class ItemManagement:
     textbox_sellingPrice_id = "UnitPrice"
     button_saveItem_id = 'btnContinueSave'
 
+    #################### Edit Item Page Objects ############################
     textbox_searchItem_id = 'searchBox'
     button_search_id = 'searchBtn'
     link_searchItemValue_xpath = '//*[@id="kGrid"]/table/tbody/tr/td[2]/a'
@@ -64,6 +65,7 @@ class ItemManagement:
     def clickSaveAndContinue(self):
         self.driver.find_element(By.ID, self.button_saveItem_id).click()
 
+    #################### Edit Item Action Functions ############################
     def searchItem(self, itemCode):
         self.driver.find_element(By.ID, self.textbox_searchItem_id).clear()
         self.driver.find_element(By.ID, self.textbox_searchItem_id).send_keys(itemCode)

@@ -41,6 +41,5 @@ def browser(request):  # This will return the Browser value from cli to setup me
 ################### Pytest HTML Report ################################
 
 def pytest_configure(config):
-    config._metadata['Project Name'] = 'Attendance Portal'
-    config._metadata['Module Name'] = 'Login/Signup'
+    config._metadata['Project Name'] = 'ERP Gold'
     config._metadata['Tester'] = 'Mehdi'
