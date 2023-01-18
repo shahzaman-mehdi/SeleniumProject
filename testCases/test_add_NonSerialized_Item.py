@@ -45,9 +45,9 @@ class Test_003_Add_NonSerialized_Item:
         self.ai.selectItemCategory()
         time.sleep(2)
 
-        self.code = 'AT' + randomNumber()
-        self.ai.enterItemCode(self.code)
-        time.sleep(2)
+        # self.code = 'AT' + randomNumber()
+        # self.ai.enterItemCode(self.code)
+        # time.sleep(2)
 
         self.name = 'AT Item ' + randomNumber()
         self.ai.enterItemName(self.name)

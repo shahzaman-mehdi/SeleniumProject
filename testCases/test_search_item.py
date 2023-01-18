@@ -44,7 +44,7 @@ class Test_004_Edit_NonSerialized_Item:
         self.si.clickSearchedButton()
         time.sleep(5)
 
-        status = self.si.searchByItemName('AT Edit Non Serialized Items')
+        status = self.si.searchByItemName('AT Edit Non Serialized Item')
 
         if status == True:
             assert True

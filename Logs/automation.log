@@ -502,3 +502,27 @@
 2023-01-18 17:08:26,953 :INFO :********** Items List Screen Appeared **********
 2023-01-18 17:08:35,128 :INFO :********** Searching Item **********
 2023-01-18 17:08:42,593 :ERROR :********** Item search test failed **********
+2023-01-18 17:52:15,892 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-18 17:52:15,892 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-18 17:52:26,030 :INFO :********** Login Successful **********
+2023-01-18 17:52:56,058 :INFO :********** Saving **********
+2023-01-18 17:53:06,377 :INFO :**********Item added successfully **********
+2023-01-18 17:58:23,346 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-18 17:58:23,346 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-18 17:58:36,563 :INFO :********** Login Successful **********
+2023-01-18 17:59:02,140 :INFO :********** Saving **********
+2023-01-18 17:59:12,503 :ERROR :**********Add Non Serialized Item Test Failed **********
+2023-01-18 18:03:06,600 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-18 18:03:06,600 :INFO :********** Logging into ERP **********
+2023-01-18 18:03:19,629 :INFO :********** Login Successful **********
+2023-01-18 18:03:19,629 :INFO :********** Opening Items List Screen **********
+2023-01-18 18:03:23,076 :INFO :********** Items List Screen Appeared **********
+2023-01-18 18:03:31,318 :INFO :********** Searching Item **********
+2023-01-18 18:03:36,853 :ERROR :********** Item search test failed **********
+2023-01-18 18:06:44,957 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-18 18:06:44,958 :INFO :********** Logging into ERP **********
+2023-01-18 18:06:54,169 :INFO :********** Login Successful **********
+2023-01-18 18:06:54,169 :INFO :********** Opening Items List Screen **********
+2023-01-18 18:06:57,506 :INFO :********** Items List Screen Appeared **********
+2023-01-18 18:07:05,732 :INFO :********** Searching Item **********
+2023-01-18 18:07:11,118 :INFO :********** Item search test passed **********
