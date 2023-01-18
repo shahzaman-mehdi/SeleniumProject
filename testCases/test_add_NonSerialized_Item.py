@@ -37,7 +37,7 @@ class Test_003_Add_NonSerialized_Item:
         time.sleep(2)
 
         self.ai.clickAddItem()
-        time.sleep(2)
+        time.sleep(5)
 
         # self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
         # time.sleep(5)
@@ -61,7 +61,8 @@ class Test_003_Add_NonSerialized_Item:
         self.ai.enterUPCNumber(self.upc)
         time.sleep(2)
 
-        # self.ai.enterStandardCost(500.00)
+        # self.cost = 500.12
+        # self.ai.enterStandardCost(self.cost)
         # time.sleep(2)
 
         # self.ai.enterSellingPrice(1000)

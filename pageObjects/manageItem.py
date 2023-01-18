@@ -12,7 +12,8 @@ class ItemManagement:
     textbox_itemName_id = "ItemName"
     textbox_itemDescription_xpath = "//input[@id='ItemDescription']"
     textbox_upcNumber_xpath = "//input[@id='UPCCode']"
-    textbox_standardCost_xpath = "//*[@id='StandardCost']"
+    increase_value = '//*[@id="icform"]/div[8]/div[1]/span[2]/span/span[1]/span[1]/span'
+    textbox_standardCost_name = "//*[@id='StandardCost']"
     textbox_sellingPrice_id = "UnitPrice"
     button_saveItem_id = 'btnContinueSave'
 
@@ -51,12 +52,13 @@ class ItemManagement:
         self.driver.find_element(By.XPATH, self.textbox_itemDescription_xpath).send_keys(description)
 
     def enterUPCNumber(self, upc):
+        print(upc)
         self.driver.find_element(By.XPATH, self.textbox_upcNumber_xpath).clear()
         self.driver.find_element(By.XPATH, self.textbox_upcNumber_xpath).send_keys(upc)
 
-    # def enterStandardCost(self, stdCost):
-    #     self.driver.find_element(By.XPATH, self.textbox_standardCost_xpath).click()
-    #     self.driver.find_element(By.XPATH, self.textbox_standardCost_xpath).send_keys(stdCost)
+    def enterStandardCost(self, stdCost):
+        self.driver.find_element(By.XPATH, self.increase_value).click()
+        self.driver.find_element(By.XPATH, self.increase_value).send_keys(stdCost)
     #
     # def enterSellingPrice(self, sellPrice):
     #     self.driver.find_element(By.ID, self.textbox_sellingPrice_id).click()

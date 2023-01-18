@@ -40,6 +40,7 @@ class Test_004_Edit_NonSerialized_Item:
 
         self.logger.info("********** Searching Item **********")
         self.ai.searchItem("EDIT_NS_004_AT")
+        self.ai.clickSearchedButton()
         time.sleep(5)
 
         self.logger.info("********** Opening searched item in edit view **********")
