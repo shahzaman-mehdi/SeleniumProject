@@ -1,4 +1,7 @@
 import time
+
+import pytest
+
 from pageObjects.searchItem import itemSearch
 from pageObjects.LoginPage import LoginPage
 from Utilities.readProperties import ReadConfig
@@ -12,6 +15,8 @@ class Test_004_Edit_NonSerialized_Item:
 
     logger = LogGen.loggen()
 
+    @pytest.mark.sanity
+    @pytest.mark.regression
     def test_searchItem(self, setup):
         self.logger.info("********** Test_003_Edit_NonSerialized_Item **********")
         self.logger.info("********** Logging into ERP **********")

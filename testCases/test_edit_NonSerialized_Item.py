@@ -1,6 +1,8 @@
 import random
 import time
 import string
+
+import pytest
 from selenium.webdriver.common.by import By
 from pageObjects.manageItem import ItemManagement
 from pageObjects.LoginPage import LoginPage
@@ -15,6 +17,7 @@ class Test_004_Edit_NonSerialized_Item:
 
     logger = LogGen.loggen()
 
+    @pytest.mark.regression
     def test_editNonSerializedItem(self, setup):
         self.logger.info("********** Test_003_Edit_NonSerialized_Item **********")
         self.logger.info("********** Logging into ERP **********")

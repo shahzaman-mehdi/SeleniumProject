@@ -1,3 +1,5 @@
+import pytest
+
 from pageObjects.LoginPage import LoginPage
 from Utilities.readProperties import ReadConfig
 from Utilities.customLogger import LogGen
@@ -11,6 +13,7 @@ class Test_001_Login:
 
     logger = LogGen.loggen()
 
+    @pytest.mark.regression
     def test_login(self, setup):
         self.logger.info("********** Test_001_Login **********")
         self.logger.info("********** Verifying Login Test **********")

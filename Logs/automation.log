@@ -526,3 +526,404 @@
 2023-01-18 18:06:57,506 :INFO :********** Items List Screen Appeared **********
 2023-01-18 18:07:05,732 :INFO :********** Searching Item **********
 2023-01-18 18:07:11,118 :INFO :********** Item search test passed **********
+2023-01-25 11:47:42,562 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 11:47:42,563 :INFO :********** Logging into ERP **********
+2023-01-25 11:47:55,597 :INFO :********** Login Successful **********
+2023-01-25 11:47:55,597 :INFO :********** Opening Items List Screen **********
+2023-01-25 11:47:59,997 :INFO :********** Items List Screen Appeared **********
+2023-01-25 11:48:08,566 :INFO :********** Searching Item **********
+2023-01-25 11:48:13,978 :INFO :********** Item search test passed **********
+2023-01-25 11:54:10,195 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 11:54:10,195 :INFO :********** Logging into ERP **********
+2023-01-25 11:54:19,806 :INFO :********** Login Successful **********
+2023-01-25 11:54:19,806 :INFO :********** Opening Items List Screen **********
+2023-01-25 11:54:23,629 :INFO :********** Items List Screen Appeared **********
+2023-01-25 11:54:32,176 :INFO :********** Searching Item **********
+2023-01-25 11:54:37,608 :INFO :********** Item search test passed **********
+2023-01-25 13:29:15,229 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-25 13:29:15,230 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-25 13:29:37,124 :INFO :********** Login Successful **********
+2023-01-25 13:30:04,910 :INFO :********** Saving **********
+2023-01-25 13:30:16,094 :ERROR :**********Add Non Serialized Item Test Failed **********
+2023-01-25 13:31:50,537 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 13:31:50,537 :INFO :********** Logging into ERP **********
+2023-01-25 13:32:02,167 :INFO :********** Login Successful **********
+2023-01-25 13:32:02,167 :INFO :********** Opening Items List Screen **********
+2023-01-25 13:32:05,632 :INFO :********** Items List Screen Appeared **********
+2023-01-25 13:32:07,641 :INFO :********** Searching Item **********
+2023-01-25 13:32:12,912 :INFO :********** Opening searched item in edit view **********
+2023-01-25 13:32:17,100 :INFO :***** Updating the item description and UPC number field values *****
+2023-01-25 13:32:21,851 :INFO :***** Saving the updated item *****
+2023-01-25 13:32:29,098 :INFO :**********Item updated successfully **********
+2023-01-25 13:34:30,583 :INFO :********** Test_002_DDT_Login **********
+2023-01-25 13:34:30,583 :INFO :********** Verifying Login DDT Test **********
+2023-01-25 13:45:06,505 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-25 13:45:06,506 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-25 13:45:17,116 :INFO :********** Login Successful **********
+2023-01-25 13:45:47,703 :INFO :********** Saving **********
+2023-01-25 13:45:58,683 :INFO :**********Item added successfully **********
+2023-01-25 13:51:46,632 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-25 13:51:46,632 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-25 13:51:46,632 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-25 13:51:46,632 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-25 13:51:46,632 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-25 13:51:46,633 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-25 13:51:46,633 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-25 13:51:46,633 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-25 13:51:46,633 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-25 13:51:46,633 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-25 13:51:57,756 :INFO :********** Login Successful **********
+2023-01-25 13:51:57,756 :INFO :********** Login Successful **********
+2023-01-25 13:51:57,756 :INFO :********** Login Successful **********
+2023-01-25 13:51:57,756 :INFO :********** Login Successful **********
+2023-01-25 13:51:57,756 :INFO :********** Login Successful **********
+2023-01-25 13:52:28,428 :INFO :********** Saving **********
+2023-01-25 13:52:28,428 :INFO :********** Saving **********
+2023-01-25 13:52:28,428 :INFO :********** Saving **********
+2023-01-25 13:52:28,428 :INFO :********** Saving **********
+2023-01-25 13:52:28,428 :INFO :********** Saving **********
+2023-01-25 13:52:38,781 :INFO :**********Item added successfully **********
+2023-01-25 13:52:38,781 :INFO :**********Item added successfully **********
+2023-01-25 13:52:38,781 :INFO :**********Item added successfully **********
+2023-01-25 13:52:38,781 :INFO :**********Item added successfully **********
+2023-01-25 13:52:38,781 :INFO :**********Item added successfully **********
+2023-01-25 13:52:40,325 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 13:52:40,325 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 13:52:40,325 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 13:52:40,325 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 13:52:40,325 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 13:52:40,326 :INFO :********** Logging into ERP **********
+2023-01-25 13:52:40,326 :INFO :********** Logging into ERP **********
+2023-01-25 13:52:40,326 :INFO :********** Logging into ERP **********
+2023-01-25 13:52:40,326 :INFO :********** Logging into ERP **********
+2023-01-25 13:52:40,326 :INFO :********** Logging into ERP **********
+2023-01-25 13:52:50,634 :INFO :********** Login Successful **********
+2023-01-25 13:52:50,634 :INFO :********** Login Successful **********
+2023-01-25 13:52:50,634 :INFO :********** Login Successful **********
+2023-01-25 13:52:50,634 :INFO :********** Login Successful **********
+2023-01-25 13:52:50,634 :INFO :********** Login Successful **********
+2023-01-25 13:52:50,635 :INFO :********** Opening Items List Screen **********
+2023-01-25 13:52:50,635 :INFO :********** Opening Items List Screen **********
+2023-01-25 13:52:50,635 :INFO :********** Opening Items List Screen **********
+2023-01-25 13:52:50,635 :INFO :********** Opening Items List Screen **********
+2023-01-25 13:52:50,635 :INFO :********** Opening Items List Screen **********
+2023-01-25 13:52:54,075 :INFO :********** Items List Screen Appeared **********
+2023-01-25 13:52:54,075 :INFO :********** Items List Screen Appeared **********
+2023-01-25 13:52:54,075 :INFO :********** Items List Screen Appeared **********
+2023-01-25 13:52:54,075 :INFO :********** Items List Screen Appeared **********
+2023-01-25 13:52:54,075 :INFO :********** Items List Screen Appeared **********
+2023-01-25 13:52:56,087 :INFO :********** Searching Item **********
+2023-01-25 13:52:56,087 :INFO :********** Searching Item **********
+2023-01-25 13:52:56,087 :INFO :********** Searching Item **********
+2023-01-25 13:52:56,087 :INFO :********** Searching Item **********
+2023-01-25 13:52:56,087 :INFO :********** Searching Item **********
+2023-01-25 13:53:01,346 :INFO :********** Opening searched item in edit view **********
+2023-01-25 13:53:01,346 :INFO :********** Opening searched item in edit view **********
+2023-01-25 13:53:01,346 :INFO :********** Opening searched item in edit view **********
+2023-01-25 13:53:01,346 :INFO :********** Opening searched item in edit view **********
+2023-01-25 13:53:01,346 :INFO :********** Opening searched item in edit view **********
+2023-01-25 13:53:04,861 :INFO :***** Updating the item description and UPC number field values *****
+2023-01-25 13:53:04,861 :INFO :***** Updating the item description and UPC number field values *****
+2023-01-25 13:53:04,861 :INFO :***** Updating the item description and UPC number field values *****
+2023-01-25 13:53:04,861 :INFO :***** Updating the item description and UPC number field values *****
+2023-01-25 13:53:04,861 :INFO :***** Updating the item description and UPC number field values *****
+2023-01-25 13:53:09,542 :INFO :***** Saving the updated item *****
+2023-01-25 13:53:09,542 :INFO :***** Saving the updated item *****
+2023-01-25 13:53:09,542 :INFO :***** Saving the updated item *****
+2023-01-25 13:53:09,542 :INFO :***** Saving the updated item *****
+2023-01-25 13:53:09,542 :INFO :***** Saving the updated item *****
+2023-01-25 13:53:16,185 :INFO :**********Item updated successfully **********
+2023-01-25 13:53:16,185 :INFO :**********Item updated successfully **********
+2023-01-25 13:53:16,185 :INFO :**********Item updated successfully **********
+2023-01-25 13:53:16,185 :INFO :**********Item updated successfully **********
+2023-01-25 13:53:16,185 :INFO :**********Item updated successfully **********
+2023-01-25 13:53:17,681 :INFO :********** Test_002_DDT_Login **********
+2023-01-25 13:53:17,681 :INFO :********** Test_002_DDT_Login **********
+2023-01-25 13:53:17,681 :INFO :********** Test_002_DDT_Login **********
+2023-01-25 13:53:17,681 :INFO :********** Test_002_DDT_Login **********
+2023-01-25 13:53:17,681 :INFO :********** Test_002_DDT_Login **********
+2023-01-25 13:53:17,681 :INFO :********** Verifying Login DDT Test **********
+2023-01-25 13:53:17,681 :INFO :********** Verifying Login DDT Test **********
+2023-01-25 13:53:17,681 :INFO :********** Verifying Login DDT Test **********
+2023-01-25 13:53:17,681 :INFO :********** Verifying Login DDT Test **********
+2023-01-25 13:53:17,681 :INFO :********** Verifying Login DDT Test **********
+2023-01-25 13:53:30,893 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 13:53:30,893 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 13:53:30,893 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 13:53:30,893 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 13:53:30,893 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 13:53:30,894 :INFO :********** Logging into ERP **********
+2023-01-25 13:53:30,894 :INFO :********** Logging into ERP **********
+2023-01-25 13:53:30,894 :INFO :********** Logging into ERP **********
+2023-01-25 13:53:30,894 :INFO :********** Logging into ERP **********
+2023-01-25 13:53:30,894 :INFO :********** Logging into ERP **********
+2023-01-25 13:53:42,722 :INFO :********** Login Successful **********
+2023-01-25 13:53:42,722 :INFO :********** Login Successful **********
+2023-01-25 13:53:42,722 :INFO :********** Login Successful **********
+2023-01-25 13:53:42,722 :INFO :********** Login Successful **********
+2023-01-25 13:53:42,722 :INFO :********** Login Successful **********
+2023-01-25 13:53:42,722 :INFO :********** Opening Items List Screen **********
+2023-01-25 13:53:42,722 :INFO :********** Opening Items List Screen **********
+2023-01-25 13:53:42,722 :INFO :********** Opening Items List Screen **********
+2023-01-25 13:53:42,722 :INFO :********** Opening Items List Screen **********
+2023-01-25 13:53:42,722 :INFO :********** Opening Items List Screen **********
+2023-01-25 13:53:47,539 :INFO :********** Items List Screen Appeared **********
+2023-01-25 13:53:47,539 :INFO :********** Items List Screen Appeared **********
+2023-01-25 13:53:47,539 :INFO :********** Items List Screen Appeared **********
+2023-01-25 13:53:47,539 :INFO :********** Items List Screen Appeared **********
+2023-01-25 13:53:47,539 :INFO :********** Items List Screen Appeared **********
+2023-01-25 13:53:55,767 :INFO :********** Searching Item **********
+2023-01-25 13:53:55,767 :INFO :********** Searching Item **********
+2023-01-25 13:53:55,767 :INFO :********** Searching Item **********
+2023-01-25 13:53:55,767 :INFO :********** Searching Item **********
+2023-01-25 13:53:55,767 :INFO :********** Searching Item **********
+2023-01-25 13:54:01,106 :INFO :********** Item search test passed **********
+2023-01-25 13:54:01,106 :INFO :********** Item search test passed **********
+2023-01-25 13:54:01,106 :INFO :********** Item search test passed **********
+2023-01-25 13:54:01,106 :INFO :********** Item search test passed **********
+2023-01-25 13:54:01,106 :INFO :********** Item search test passed **********
+2023-01-25 13:58:39,710 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-25 13:58:39,710 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-25 13:58:39,710 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-25 13:58:39,710 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-25 13:58:39,710 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-25 13:58:39,711 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-25 13:58:39,711 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-25 13:58:39,711 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-25 13:58:39,711 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-25 13:58:39,711 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-25 13:58:51,661 :INFO :********** Login Successful **********
+2023-01-25 13:58:51,661 :INFO :********** Login Successful **********
+2023-01-25 13:58:51,661 :INFO :********** Login Successful **********
+2023-01-25 13:58:51,661 :INFO :********** Login Successful **********
+2023-01-25 13:58:51,661 :INFO :********** Login Successful **********
+2023-01-25 13:59:23,016 :INFO :********** Saving **********
+2023-01-25 13:59:23,016 :INFO :********** Saving **********
+2023-01-25 13:59:23,016 :INFO :********** Saving **********
+2023-01-25 13:59:23,016 :INFO :********** Saving **********
+2023-01-25 13:59:23,016 :INFO :********** Saving **********
+2023-01-25 13:59:33,358 :INFO :**********Item added successfully **********
+2023-01-25 13:59:33,358 :INFO :**********Item added successfully **********
+2023-01-25 13:59:33,358 :INFO :**********Item added successfully **********
+2023-01-25 13:59:33,358 :INFO :**********Item added successfully **********
+2023-01-25 13:59:33,358 :INFO :**********Item added successfully **********
+2023-01-25 13:59:50,892 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 13:59:50,892 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 13:59:50,892 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 13:59:50,892 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 13:59:50,892 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 13:59:50,892 :INFO :********** Logging into ERP **********
+2023-01-25 13:59:50,892 :INFO :********** Logging into ERP **********
+2023-01-25 13:59:50,892 :INFO :********** Logging into ERP **********
+2023-01-25 13:59:50,892 :INFO :********** Logging into ERP **********
+2023-01-25 13:59:50,892 :INFO :********** Logging into ERP **********
+2023-01-25 14:00:02,047 :INFO :********** Login Successful **********
+2023-01-25 14:00:02,047 :INFO :********** Login Successful **********
+2023-01-25 14:00:02,047 :INFO :********** Login Successful **********
+2023-01-25 14:00:02,047 :INFO :********** Login Successful **********
+2023-01-25 14:00:02,047 :INFO :********** Login Successful **********
+2023-01-25 14:00:02,047 :INFO :********** Opening Items List Screen **********
+2023-01-25 14:00:02,047 :INFO :********** Opening Items List Screen **********
+2023-01-25 14:00:02,047 :INFO :********** Opening Items List Screen **********
+2023-01-25 14:00:02,047 :INFO :********** Opening Items List Screen **********
+2023-01-25 14:00:02,047 :INFO :********** Opening Items List Screen **********
+2023-01-25 14:00:05,431 :INFO :********** Items List Screen Appeared **********
+2023-01-25 14:00:05,431 :INFO :********** Items List Screen Appeared **********
+2023-01-25 14:00:05,431 :INFO :********** Items List Screen Appeared **********
+2023-01-25 14:00:05,431 :INFO :********** Items List Screen Appeared **********
+2023-01-25 14:00:05,431 :INFO :********** Items List Screen Appeared **********
+2023-01-25 14:00:13,681 :INFO :********** Searching Item **********
+2023-01-25 14:00:13,681 :INFO :********** Searching Item **********
+2023-01-25 14:00:13,681 :INFO :********** Searching Item **********
+2023-01-25 14:00:13,681 :INFO :********** Searching Item **********
+2023-01-25 14:00:13,681 :INFO :********** Searching Item **********
+2023-01-25 14:00:19,097 :INFO :********** Item search test passed **********
+2023-01-25 14:00:19,097 :INFO :********** Item search test passed **********
+2023-01-25 14:00:19,097 :INFO :********** Item search test passed **********
+2023-01-25 14:00:19,097 :INFO :********** Item search test passed **********
+2023-01-25 14:00:19,097 :INFO :********** Item search test passed **********
+2023-01-25 15:02:53,903 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-25 15:02:53,903 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-25 15:02:53,903 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-25 15:02:53,903 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-25 15:02:53,903 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-25 15:02:53,904 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-25 15:02:53,904 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-25 15:02:53,904 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-25 15:02:53,904 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-25 15:02:53,904 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-25 15:03:18,652 :INFO :********** Login Successful **********
+2023-01-25 15:03:18,652 :INFO :********** Login Successful **********
+2023-01-25 15:03:18,652 :INFO :********** Login Successful **********
+2023-01-25 15:03:18,652 :INFO :********** Login Successful **********
+2023-01-25 15:03:18,652 :INFO :********** Login Successful **********
+2023-01-25 15:03:45,945 :INFO :********** Saving **********
+2023-01-25 15:03:45,945 :INFO :********** Saving **********
+2023-01-25 15:03:45,945 :INFO :********** Saving **********
+2023-01-25 15:03:45,945 :INFO :********** Saving **********
+2023-01-25 15:03:45,945 :INFO :********** Saving **********
+2023-01-25 15:03:56,402 :ERROR :**********Add Non Serialized Item Test Failed **********
+2023-01-25 15:03:56,402 :ERROR :**********Add Non Serialized Item Test Failed **********
+2023-01-25 15:03:56,402 :ERROR :**********Add Non Serialized Item Test Failed **********
+2023-01-25 15:03:56,402 :ERROR :**********Add Non Serialized Item Test Failed **********
+2023-01-25 15:03:56,402 :ERROR :**********Add Non Serialized Item Test Failed **********
+2023-01-25 15:03:58,293 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 15:03:58,293 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 15:03:58,293 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 15:03:58,293 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 15:03:58,293 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 15:03:58,293 :INFO :********** Logging into ERP **********
+2023-01-25 15:03:58,293 :INFO :********** Logging into ERP **********
+2023-01-25 15:03:58,293 :INFO :********** Logging into ERP **********
+2023-01-25 15:03:58,293 :INFO :********** Logging into ERP **********
+2023-01-25 15:03:58,293 :INFO :********** Logging into ERP **********
+2023-01-25 15:04:10,355 :INFO :********** Login Successful **********
+2023-01-25 15:04:10,355 :INFO :********** Login Successful **********
+2023-01-25 15:04:10,355 :INFO :********** Login Successful **********
+2023-01-25 15:04:10,355 :INFO :********** Login Successful **********
+2023-01-25 15:04:10,355 :INFO :********** Login Successful **********
+2023-01-25 15:04:10,357 :INFO :********** Opening Items List Screen **********
+2023-01-25 15:04:10,357 :INFO :********** Opening Items List Screen **********
+2023-01-25 15:04:10,357 :INFO :********** Opening Items List Screen **********
+2023-01-25 15:04:10,357 :INFO :********** Opening Items List Screen **********
+2023-01-25 15:04:10,357 :INFO :********** Opening Items List Screen **********
+2023-01-25 15:04:13,764 :INFO :********** Items List Screen Appeared **********
+2023-01-25 15:04:13,764 :INFO :********** Items List Screen Appeared **********
+2023-01-25 15:04:13,764 :INFO :********** Items List Screen Appeared **********
+2023-01-25 15:04:13,764 :INFO :********** Items List Screen Appeared **********
+2023-01-25 15:04:13,764 :INFO :********** Items List Screen Appeared **********
+2023-01-25 15:04:21,995 :INFO :********** Searching Item **********
+2023-01-25 15:04:21,995 :INFO :********** Searching Item **********
+2023-01-25 15:04:21,995 :INFO :********** Searching Item **********
+2023-01-25 15:04:21,995 :INFO :********** Searching Item **********
+2023-01-25 15:04:21,995 :INFO :********** Searching Item **********
+2023-01-25 15:04:27,362 :INFO :********** Item search test passed **********
+2023-01-25 15:04:27,362 :INFO :********** Item search test passed **********
+2023-01-25 15:04:27,362 :INFO :********** Item search test passed **********
+2023-01-25 15:04:27,362 :INFO :********** Item search test passed **********
+2023-01-25 15:04:27,362 :INFO :********** Item search test passed **********
+2023-01-25 15:05:57,868 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-25 15:05:57,868 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-25 15:05:57,868 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-25 15:05:57,868 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-25 15:05:57,868 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-25 15:05:57,869 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-25 15:05:57,869 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-25 15:05:57,869 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-25 15:05:57,869 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-25 15:05:57,869 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-25 15:06:35,028 :INFO :********** Login Successful **********
+2023-01-25 15:06:35,028 :INFO :********** Login Successful **********
+2023-01-25 15:06:35,028 :INFO :********** Login Successful **********
+2023-01-25 15:06:35,028 :INFO :********** Login Successful **********
+2023-01-25 15:06:35,028 :INFO :********** Login Successful **********
+2023-01-25 15:07:05,911 :INFO :********** Saving **********
+2023-01-25 15:07:05,911 :INFO :********** Saving **********
+2023-01-25 15:07:05,911 :INFO :********** Saving **********
+2023-01-25 15:07:05,911 :INFO :********** Saving **********
+2023-01-25 15:07:05,911 :INFO :********** Saving **********
+2023-01-25 15:07:16,315 :ERROR :**********Add Non Serialized Item Test Failed **********
+2023-01-25 15:07:16,315 :ERROR :**********Add Non Serialized Item Test Failed **********
+2023-01-25 15:07:16,315 :ERROR :**********Add Non Serialized Item Test Failed **********
+2023-01-25 15:07:16,315 :ERROR :**********Add Non Serialized Item Test Failed **********
+2023-01-25 15:07:16,315 :ERROR :**********Add Non Serialized Item Test Failed **********
+2023-01-25 15:07:18,017 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 15:07:18,017 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 15:07:18,017 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 15:07:18,017 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 15:07:18,017 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 15:07:18,017 :INFO :********** Logging into ERP **********
+2023-01-25 15:07:18,017 :INFO :********** Logging into ERP **********
+2023-01-25 15:07:18,017 :INFO :********** Logging into ERP **********
+2023-01-25 15:07:18,017 :INFO :********** Logging into ERP **********
+2023-01-25 15:07:18,017 :INFO :********** Logging into ERP **********
+2023-01-25 15:07:49,977 :INFO :********** Login Successful **********
+2023-01-25 15:07:49,977 :INFO :********** Login Successful **********
+2023-01-25 15:07:49,977 :INFO :********** Login Successful **********
+2023-01-25 15:07:49,977 :INFO :********** Login Successful **********
+2023-01-25 15:07:49,977 :INFO :********** Login Successful **********
+2023-01-25 15:07:49,977 :INFO :********** Opening Items List Screen **********
+2023-01-25 15:07:49,977 :INFO :********** Opening Items List Screen **********
+2023-01-25 15:07:49,977 :INFO :********** Opening Items List Screen **********
+2023-01-25 15:07:49,977 :INFO :********** Opening Items List Screen **********
+2023-01-25 15:07:49,977 :INFO :********** Opening Items List Screen **********
+2023-01-25 15:07:57,302 :INFO :********** Items List Screen Appeared **********
+2023-01-25 15:07:57,302 :INFO :********** Items List Screen Appeared **********
+2023-01-25 15:07:57,302 :INFO :********** Items List Screen Appeared **********
+2023-01-25 15:07:57,302 :INFO :********** Items List Screen Appeared **********
+2023-01-25 15:07:57,302 :INFO :********** Items List Screen Appeared **********
+2023-01-25 15:08:05,539 :INFO :********** Searching Item **********
+2023-01-25 15:08:05,539 :INFO :********** Searching Item **********
+2023-01-25 15:08:05,539 :INFO :********** Searching Item **********
+2023-01-25 15:08:05,539 :INFO :********** Searching Item **********
+2023-01-25 15:08:05,539 :INFO :********** Searching Item **********
+2023-01-25 15:08:10,935 :INFO :********** Item search test passed **********
+2023-01-25 15:08:10,935 :INFO :********** Item search test passed **********
+2023-01-25 15:08:10,935 :INFO :********** Item search test passed **********
+2023-01-25 15:08:10,935 :INFO :********** Item search test passed **********
+2023-01-25 15:08:10,935 :INFO :********** Item search test passed **********
+2023-01-25 15:31:05,008 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-25 15:31:05,008 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-25 15:31:21,215 :INFO :********** Login Successful **********
+2023-01-25 15:31:53,317 :INFO :********** Saving **********
+2023-01-25 15:32:03,840 :INFO :**********Item added successfully **********
+2023-01-25 15:32:56,303 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-25 15:32:56,303 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-25 15:32:56,303 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-25 15:32:56,303 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-25 15:32:56,303 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-25 15:32:56,304 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-25 15:32:56,304 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-25 15:32:56,304 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-25 15:32:56,304 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-25 15:32:56,304 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-25 15:33:08,373 :INFO :********** Login Successful **********
+2023-01-25 15:33:08,373 :INFO :********** Login Successful **********
+2023-01-25 15:33:08,373 :INFO :********** Login Successful **********
+2023-01-25 15:33:08,373 :INFO :********** Login Successful **********
+2023-01-25 15:33:08,373 :INFO :********** Login Successful **********
+2023-01-25 15:33:40,679 :INFO :********** Saving **********
+2023-01-25 15:33:40,679 :INFO :********** Saving **********
+2023-01-25 15:33:40,679 :INFO :********** Saving **********
+2023-01-25 15:33:40,679 :INFO :********** Saving **********
+2023-01-25 15:33:40,679 :INFO :********** Saving **********
+2023-01-25 15:33:51,111 :INFO :**********Item added successfully **********
+2023-01-25 15:33:51,111 :INFO :**********Item added successfully **********
+2023-01-25 15:33:51,111 :INFO :**********Item added successfully **********
+2023-01-25 15:33:51,111 :INFO :**********Item added successfully **********
+2023-01-25 15:33:51,111 :INFO :**********Item added successfully **********
+2023-01-25 15:33:54,887 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 15:33:54,887 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 15:33:54,887 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 15:33:54,887 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 15:33:54,887 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-25 15:33:54,887 :INFO :********** Logging into ERP **********
+2023-01-25 15:33:54,887 :INFO :********** Logging into ERP **********
+2023-01-25 15:33:54,887 :INFO :********** Logging into ERP **********
+2023-01-25 15:33:54,887 :INFO :********** Logging into ERP **********
+2023-01-25 15:33:54,887 :INFO :********** Logging into ERP **********
+2023-01-25 15:34:06,001 :INFO :********** Login Successful **********
+2023-01-25 15:34:06,001 :INFO :********** Login Successful **********
+2023-01-25 15:34:06,001 :INFO :********** Login Successful **********
+2023-01-25 15:34:06,001 :INFO :********** Login Successful **********
+2023-01-25 15:34:06,001 :INFO :********** Login Successful **********
+2023-01-25 15:34:06,002 :INFO :********** Opening Items List Screen **********
+2023-01-25 15:34:06,002 :INFO :********** Opening Items List Screen **********
+2023-01-25 15:34:06,002 :INFO :********** Opening Items List Screen **********
+2023-01-25 15:34:06,002 :INFO :********** Opening Items List Screen **********
+2023-01-25 15:34:06,002 :INFO :********** Opening Items List Screen **********
+2023-01-25 15:34:09,339 :INFO :********** Items List Screen Appeared **********
+2023-01-25 15:34:09,339 :INFO :********** Items List Screen Appeared **********
+2023-01-25 15:34:09,339 :INFO :********** Items List Screen Appeared **********
+2023-01-25 15:34:09,339 :INFO :********** Items List Screen Appeared **********
+2023-01-25 15:34:09,339 :INFO :********** Items List Screen Appeared **********
+2023-01-25 15:34:17,753 :INFO :********** Searching Item **********
+2023-01-25 15:34:17,753 :INFO :********** Searching Item **********
+2023-01-25 15:34:17,753 :INFO :********** Searching Item **********
+2023-01-25 15:34:17,753 :INFO :********** Searching Item **********
+2023-01-25 15:34:17,753 :INFO :********** Searching Item **********
+2023-01-25 15:34:23,651 :INFO :********** Item search test passed **********
+2023-01-25 15:34:23,651 :INFO :********** Item search test passed **********
+2023-01-25 15:34:23,651 :INFO :********** Item search test passed **********
+2023-01-25 15:34:23,651 :INFO :********** Item search test passed **********
+2023-01-25 15:34:23,651 :INFO :********** Item search test passed **********

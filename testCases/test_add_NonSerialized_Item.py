@@ -1,6 +1,8 @@
 import random
 import time
 import string
+
+import pytest
 from selenium.webdriver.common.by import By
 from pageObjects.manageItem import ItemManagement
 from pageObjects.LoginPage import LoginPage
@@ -15,6 +17,8 @@ class Test_003_Add_NonSerialized_Item:
 
     logger = LogGen.loggen()
 
+    @pytest.mark.sanity
+    @pytest.mark.regression
     def test_addNonSerializedItem(self, setup):
         self.logger.info("********** Test_003_Add_NonSerialized_Item **********")
         self.logger.info("********** Verifying Add Non-Serialized Item **********")
@@ -45,9 +49,9 @@ class Test_003_Add_NonSerialized_Item:
         self.ai.selectItemCategory()
         time.sleep(2)
 
-        # self.code = 'AT' + randomNumber()
-        # self.ai.enterItemCode(self.code)
-        # time.sleep(2)
+        self.code = 'AT' + randomNumber()
+        self.ai.enterItemCode(self.code)
+        time.sleep(2)
 
         self.name = 'AT Item ' + randomNumber()
         self.ai.enterItemName(self.name)
@@ -77,9 +81,11 @@ class Test_003_Add_NonSerialized_Item:
         if 'Record Save Successfully' in self.msg:
             assert True == True
             self.logger.info("**********Item added successfully **********")
+            self.driver.close()
         else:
             self.driver.save_screenshot(".\\Screenshots\\" + "test-addNonSerializedItem_scr.png")
             self.logger.error("**********Add Non Serialized Item Test Failed **********")
+            self.driver.close()
             assert True == False
 
 
