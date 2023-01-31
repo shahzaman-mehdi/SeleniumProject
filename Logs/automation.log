@@ -927,3 +927,80 @@
 2023-01-25 15:34:23,651 :INFO :********** Item search test passed **********
 2023-01-25 15:34:23,651 :INFO :********** Item search test passed **********
 2023-01-25 15:34:23,651 :INFO :********** Item search test passed **********
+2023-01-26 23:33:30,608 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-26 23:33:30,608 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-26 23:33:30,608 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-26 23:33:30,608 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-26 23:33:30,608 :INFO :********** Test_003_Add_NonSerialized_Item **********
+2023-01-26 23:33:30,610 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-26 23:33:30,610 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-26 23:33:30,610 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-26 23:33:30,610 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-26 23:33:30,610 :INFO :********** Verifying Add Non-Serialized Item **********
+2023-01-26 23:33:57,512 :INFO :********** Login Successful **********
+2023-01-26 23:33:57,512 :INFO :********** Login Successful **********
+2023-01-26 23:33:57,512 :INFO :********** Login Successful **********
+2023-01-26 23:33:57,512 :INFO :********** Login Successful **********
+2023-01-26 23:33:57,512 :INFO :********** Login Successful **********
+2023-01-26 23:34:25,128 :INFO :********** Saving **********
+2023-01-26 23:34:25,128 :INFO :********** Saving **********
+2023-01-26 23:34:25,128 :INFO :********** Saving **********
+2023-01-26 23:34:25,128 :INFO :********** Saving **********
+2023-01-26 23:34:25,128 :INFO :********** Saving **********
+2023-01-26 23:34:37,007 :INFO :**********Item added successfully **********
+2023-01-26 23:34:37,007 :INFO :**********Item added successfully **********
+2023-01-26 23:34:37,007 :INFO :**********Item added successfully **********
+2023-01-26 23:34:37,007 :INFO :**********Item added successfully **********
+2023-01-26 23:34:37,007 :INFO :**********Item added successfully **********
+2023-01-26 23:34:38,250 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-26 23:34:38,250 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-26 23:34:38,250 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-26 23:34:38,250 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-26 23:34:38,250 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-26 23:34:38,251 :INFO :********** Logging into ERP **********
+2023-01-26 23:34:38,251 :INFO :********** Logging into ERP **********
+2023-01-26 23:34:38,251 :INFO :********** Logging into ERP **********
+2023-01-26 23:34:38,251 :INFO :********** Logging into ERP **********
+2023-01-26 23:34:38,251 :INFO :********** Logging into ERP **********
+2023-01-26 23:34:44,555 :INFO :********** Test_001_Login **********
+2023-01-26 23:34:44,555 :INFO :********** Test_001_Login **********
+2023-01-26 23:34:44,555 :INFO :********** Test_001_Login **********
+2023-01-26 23:34:44,555 :INFO :********** Test_001_Login **********
+2023-01-26 23:34:44,555 :INFO :********** Test_001_Login **********
+2023-01-26 23:34:44,555 :INFO :********** Verifying Login Test **********
+2023-01-26 23:34:44,555 :INFO :********** Verifying Login Test **********
+2023-01-26 23:34:44,555 :INFO :********** Verifying Login Test **********
+2023-01-26 23:34:44,555 :INFO :********** Verifying Login Test **********
+2023-01-26 23:34:44,555 :INFO :********** Verifying Login Test **********
+2023-01-26 23:34:49,780 :INFO :********** Test_002_DDT_Login **********
+2023-01-26 23:34:49,780 :INFO :********** Test_002_DDT_Login **********
+2023-01-26 23:34:49,780 :INFO :********** Test_002_DDT_Login **********
+2023-01-26 23:34:49,780 :INFO :********** Test_002_DDT_Login **********
+2023-01-26 23:34:49,780 :INFO :********** Test_002_DDT_Login **********
+2023-01-26 23:34:49,781 :INFO :********** Verifying Login DDT Test **********
+2023-01-26 23:34:49,781 :INFO :********** Verifying Login DDT Test **********
+2023-01-26 23:34:49,781 :INFO :********** Verifying Login DDT Test **********
+2023-01-26 23:34:49,781 :INFO :********** Verifying Login DDT Test **********
+2023-01-26 23:34:49,781 :INFO :********** Verifying Login DDT Test **********
+2023-01-26 23:34:54,259 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-26 23:34:54,259 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-26 23:34:54,259 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-26 23:34:54,259 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-26 23:34:54,259 :INFO :********** Test_003_Edit_NonSerialized_Item **********
+2023-01-26 23:34:54,260 :INFO :********** Logging into ERP **********
+2023-01-26 23:34:54,260 :INFO :********** Logging into ERP **********
+2023-01-26 23:34:54,260 :INFO :********** Logging into ERP **********
+2023-01-26 23:34:54,260 :INFO :********** Logging into ERP **********
+2023-01-26 23:34:54,260 :INFO :********** Logging into ERP **********
+2023-01-30 17:47:38,629 :INFO :********** Test_003_Add_Serialized_Item **********
+2023-01-30 17:47:38,630 :INFO :********** Verifying Add Serialized Item **********
+2023-01-30 17:47:51,654 :INFO :********** Login Successful **********
+2023-01-30 17:53:22,783 :INFO :********** Test_003_Add_Serialized_Item **********
+2023-01-30 17:53:22,783 :INFO :********** Verifying Add Serialized Item **********
+2023-01-30 17:53:33,706 :INFO :********** Login Successful **********
+2023-01-30 17:54:14,692 :INFO :********** Test_003_Add_Serialized_Item **********
+2023-01-30 17:54:14,692 :INFO :********** Verifying Add Serialized Item **********
+2023-01-30 17:54:27,824 :INFO :********** Login Successful **********
+2023-01-30 18:02:03,586 :INFO :********** Test_003_Add_Serialized_Item **********
+2023-01-30 18:02:03,587 :INFO :********** Verifying Add Serialized Item **********
+2023-01-30 18:02:19,868 :INFO :********** Login Successful **********
